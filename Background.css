@@ -1,3 +1,7 @@
-background{
+body{
     background-image: url("wolf.jpg");
+}
+
+h1{
+    font-size: 7em;
 }
